@@ -51,6 +51,7 @@ Test your memory skills by repeating the sequence of colors shown by the game!
 2. Open the project folder
 
 3. Run "index.html" in your browser
+4. Rendered link : https://simongame-5eh3.onrender.com
 
 ---
 
